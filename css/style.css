@@ -133,8 +133,13 @@ a:focus {
 }
 
 h1,h2,h3,h4,h5,h6{
-    font-family: 'Lobster', Georgia, Times, serif;
+    font-family: 'Ubuntu', Georgia, Times, serif;
 }
+
+h1 {
+    font-family: 'Cabin', Georgia, Times, serif;
+}
+
 body {
     font-family: 'Cabin', Helvetica, Arial, sans-serif;
 }
@@ -185,4 +190,9 @@ body {
     font-size: 24px;
     line-height: 10px;
     padding: 5px;
+}
+
+img {
+    width: 800px;
+    height: 300px;
 }
