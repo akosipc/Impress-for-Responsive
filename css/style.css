@@ -210,3 +210,7 @@ p {
 .header {
   text-decoration: underline;
 }
+
+.bigger {
+  height: 500px;
+}
